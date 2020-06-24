@@ -1,0 +1,6 @@
+sdkconfig
+sdkconfig.old
+Kconfig.projbuild
+build
+.vscode
+env_setup.sh
